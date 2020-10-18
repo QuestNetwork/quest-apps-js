@@ -1,5 +1,5 @@
 # Quest Apps JS
-> API Interface for [qDesk Apps](https://github.com/QuestNetwork/quest-apps-js) 
+> API Interface for [qDesk Apps](https://github.com/QuestNetwork/qd-apps-ts) 
 
 ## Lead Maintainer
 
